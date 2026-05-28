@@ -2,8 +2,8 @@ name: Ado Goods Resale Monitor
 
 on:
   schedule:
-    # 15分ごとに実行 (GitHub Actionsのスケジュールは遅延することがあります)
-    - cron: '*/15 * * * *'
+    # 10分ごとに実行 (GitHub Actionsのスケジュールは遅延することがあります)
+    - cron: '*/10 * * * *'
   workflow_dispatch:
     # GitHubの管理画面から手動で実行できるようにする
 
