@@ -137,6 +137,12 @@ def main():
             send_discord_message(discord_msg)
         else:
             print("再販された商品は検知されませんでした。")
+            heartbeat_msg = (
+                "【Ado Official Shop 定期チェック】\n"
+                "監視対象の28商品について、新規の再販（在庫復活）は検知されませんでした。\n"
+                f"ショップURL: {SHOP_URL}"
+            )
+            send_discord_message(heartbeat_msg)
             
     # 今回の状態をファイルに書き出す
     try:
