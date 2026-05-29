@@ -96,15 +96,7 @@ def main():
     restocked_items = []
     
     if is_first_run:
-        print("初回実行のため、現在のステータスを保存し、監視を開始します（再販通知は行いません）。")
-        # 監視開始のお知らせをDiscordに送信
-        startup_msg = (
-            "【Ado Official Shop 再販検知システム】\n"
-            f"監視システムが正常に起動しました！\n"
-            f"現在 {len(current_state)} 個の商品を監視しています。\n"
-            f"対象ショップ: {SHOP_URL}"
-        )
-        send_discord_message(startup_msg)
+        print("初回実行のため、現在のステータスを保存し、監視を開始します。")
     else:
         # 再販（out_of_stock -> in_stock）された商品をチェック
         for pid, info in current_state.items():
@@ -137,12 +129,6 @@ def main():
             send_discord_message(discord_msg)
         else:
             print("再販された商品は検知されませんでした。")
-            heartbeat_msg = (
-                "【Ado Official Shop 定期チェック】\n"
-                "監視対象の28商品について、新規の再販（在庫復活）は検知されませんでした。\n"
-                f"ショップURL: {SHOP_URL}"
-            )
-            send_discord_message(heartbeat_msg)
             
     # 今回の状態をファイルに書き出す
     try:
