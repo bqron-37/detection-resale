@@ -39,7 +39,7 @@
     "name": "ファッショナブル「Ao」Tシャツ-d",
     "slug": "Ado26Ao_004V",
     "price": 5000,
-    "is_in_stock": true
+    "is_in_stock": false
   },
   "195906": {
     "name": "ファッショナブル「Ao」Tシャツ-o",
@@ -69,13 +69,13 @@
     "name": "「Ao」冷感フード付きタオル",
     "slug": "Ado26Ao_019",
     "price": 3000,
-    "is_in_stock": true
+    "is_in_stock": false
   },
   "195896": {
     "name": "日焼けしたくないね   リバーシブルハット",
     "slug": "Ado26Ao_024",
     "price": 4500,
-    "is_in_stock": true
+    "is_in_stock": false
   },
   "195898": {
     "name": "やっと出したんだね。おめでとうAdoちゃんぬいぐるみ(デカくない)",
@@ -87,7 +87,7 @@
     "name": "引きこもれ！ぬいぐるみポーチセット(クローゼット)",
     "slug": "Ado26Ao_023",
     "price": 4800,
-    "is_in_stock": true
+    "is_in_stock": false
   },
   "195900": {
     "name": "【通販限定】瞳にうつるタペストリー「Ao」",
