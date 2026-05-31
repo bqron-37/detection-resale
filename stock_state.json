@@ -39,13 +39,13 @@
     "name": "ファッショナブル「Ao」Tシャツ-d",
     "slug": "Ado26Ao_004V",
     "price": 5000,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "195906": {
     "name": "ファッショナブル「Ao」Tシャツ-o",
     "slug": "Ado26Ao_007V",
     "price": 4800,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "195905": {
     "name": "大進化！割とデカいかも？！キラキラペンライト",
@@ -69,25 +69,25 @@
     "name": "「Ao」冷感フード付きタオル",
     "slug": "Ado26Ao_019",
     "price": 3000,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "195896": {
     "name": "日焼けしたくないね   リバーシブルハット",
     "slug": "Ado26Ao_024",
     "price": 4500,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "195898": {
     "name": "やっと出したんだね。おめでとうAdoちゃんぬいぐるみ(デカくない)",
     "slug": "Ado26Ao_022",
     "price": 3000,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "195897": {
     "name": "引きこもれ！ぬいぐるみポーチセット(クローゼット)",
     "slug": "Ado26Ao_023",
     "price": 4800,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "195900": {
     "name": "【通販限定】瞳にうつるタペストリー「Ao」",
@@ -111,7 +111,7 @@
     "name": "何が入るんだろうね。小銭かな？   はちゃんポーチ（寿司付き）",
     "slug": "Ado26Ao_025",
     "price": 2800,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "196208": {
     "name": "貼り付けろ！ぺたぺたワッペンストラップ",
@@ -129,7 +129,7 @@
     "name": "輝きなさい！ペンライトリボン ver.2",
     "slug": "Ado26Ao_018",
     "price": 3000,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "195891": {
     "name": "活発婉麗！アクリルキーホルダー第二弾【ランダム6種】",
@@ -141,13 +141,13 @@
     "name": "ブームに乗っかれ！キラキラシールセット",
     "slug": "Ado26Ao_027",
     "price": 3500,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "196214": {
     "name": "どんどんあどっぷシール",
     "slug": "Ado26Ao_028",
     "price": 1200,
-    "is_in_stock": false
+    "is_in_stock": true
   },
   "196213": {
     "name": "ランダムポストカード【ランダム4種】",
